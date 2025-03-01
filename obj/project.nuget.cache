@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "InS+8MPAuUo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UsuariO\\Desktop\\Estudio\\Universidad\\semestre25-1\\Servicios web\\tutorialmarzo1\\csharpapigenerica\\csharpapigenerica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UsuariO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\UsuariO\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
